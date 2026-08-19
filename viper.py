@@ -394,7 +394,7 @@ class ViperRunner:
   ╚╗╔╝║╠═╝║╣ ╠╦╝
    ╚╝ ╩╩  ╚═╝╩╚═
 {Colors.RESET}{Colors.DIM}  VDT Active Exploitation v{VERSION}
-  by NuClide{Colors.RESET}
+  by {Colors.RESET}
 
 {Colors.DIM}Target:{Colors.RESET} {self.args.target}
 {Colors.DIM}Service:{Colors.RESET} {self.args.service}
